@@ -1,0 +1,74 @@
+.main-text{
+    background-color:#D5D3D3;
+    padding: 15px;
+    text-align: justify;
+
+}
+
+#title{
+    font-size: 32px;
+}
+
+#title2{
+    font-size: 32px;
+}
+
+#title3{
+    font-size: 17px;
+}
+.logo{
+    width: 100%;    
+    margin-top: 5px;
+}
+.rodape{
+    width: 100%;
+    color: white;
+    background-color: #343a40;
+    padding: 30px;
+    margin-top: 15px;
+}
+.img{
+    width: 100%;
+}
+.btn{
+    color: blueviolet;
+    border-color: blueviolet;
+}
+.form-control{
+    color: blueviolet;
+    border-color: blueviolet;
+}
+.form-inline{
+    color: blueviolet;
+    border-color: blueviolet;
+}
+.redes-sociais{
+    width: 100%;
+    margin-top: 42px;
+    margin-left: 90px;   
+}
+.row{
+    margin-top: 10px;
+}
+h1{
+    font-size: 60px;
+    line-height: 1.5;
+}
+p{
+    font-size: 20px;
+    line-height: 1.5;
+    margin-top: -10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+}
+.news-image{
+    width: 1112px;
+    height: auto;
+    margin-top: -5px;
+}
+
+.grey-p{
+    background-color: #D5D3D3;
+    margin-top: 10px;
+}

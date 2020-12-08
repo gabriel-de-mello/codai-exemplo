@@ -1,0 +1,62 @@
+.main-text{
+    background-color:#D5D3D3;
+    padding: 15px;
+    text-align: justify;
+
+}
+
+#title{
+    font-size: 32px;
+}
+
+#title2{
+    font-size: 32px;
+}
+
+#title3{
+    font-size: 17px;
+}
+.banner-principal img{
+    width: 100%;
+}
+
+.logo{
+    width: 100%;    
+    margin-top: 15px;
+}
+
+.redes-sociais{
+    float: left;
+}
+
+.rodape{
+    width: 100%;
+    color: white;
+    background-color: #343a40;
+    padding: 30px;
+    margin-top: 15px;
+}
+.img{
+    width: 100%;
+}
+.btn{
+    color: blueviolet;
+    border-color: blueviolet;
+}
+.form-control{
+    color: blueviolet;
+    border-color: blueviolet;
+}
+.form-inline{
+    color: blueviolet;
+    border-color: blueviolet;
+}
+.redes-sociais{
+    width: 100%;
+    margin-top: 42px;
+    margin-left: 90px;
+    
+}
+.row{
+    margin-top: 10px;
+}
